@@ -1,5 +1,5 @@
 ## Machine-Learning-Cook
-开发环境、python基础请自行google.
+开发环境、python基础、Jupter Notebook用法请自行google.
 
 ## 教程目录
 | **第一章 Jupyter Notebook, Numpy和Matplotlib** | [章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/) | - |
