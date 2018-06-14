@@ -2,11 +2,11 @@
 开发环境、python基础、Jupter Notebook用法请自行google.
 
 ## 教程目录
-| **第一章 Jupyter Notebook, Numpy和Matplotlib** | [章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/) | - |
+| **第一章 Jupyter Notebook, Pandas ,Numpy和Matplotlib** | [章节文件夹](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/) | - |
 | :--- | :---: | :---: |
-| 1-1 Jupyter Notebook基础 | [notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb) | - |
-| 1-2 Jupyter Notebook中的魔法命令 | [notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/02-Magic-Commands.ipynb) | [script](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/) |
-| 1-3 Numpy数据基础 | [notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/03-Numpy-Array-Basics/03-Numpy-Array-Basics.ipynb) | - |
+| 1-1 Jupyter Notebook基础 | [notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb) | - |
+| 1-2 Numpy | [notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/02-Numpy/02-Numpy.ipynb) | - |
+| 1-3 Pandas | [notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/03-Pandas/03-Pandas.ipynb) | - |
 | 1-4 创建Numpy数组(和矩阵) | [notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/04-Create-Numpy-Array/04-Create-Numpy-Array.ipynb) | - |
 | 1-5 Numpy数组(和矩阵)的基本操作 | [notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/05-Numpy-Array-Basic-Operations/05-Numpy-Array-Basic-Operations.ipynb) | - |
 | 1-6 Numpy数组(和矩阵)的合并与分割 | [notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/06-Concatenate-and-Split/06-Concatenate-and-Split.ipynb) | - |
