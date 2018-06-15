@@ -7,15 +7,12 @@
 | 1-1 Jupyter Notebook基础 | [Jupyter Notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb) | - |
 | 1-2 Numpy | [Jupyter Notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/02-Numpy/02-Numpy.ipynb) | - |
 | 1-3 Pandas | [Jupyter Notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/03-Pandas/03-Pandas.ipynb) | - |
-| 1-4 Matplotlib | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/04-Matplotlib/04-Matplotlib.ipynb) | - |
-| 1-5 Numpy数组(和矩阵)的基本操作 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/05-Numpy-Array-Basic-Operations/05-Numpy-Array-Basic-Operations.ipynb) | - |
-| 1-6 Numpy数组(和矩阵)的合并与分割 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/06-Concatenate-and-Split/06-Concatenate-and-Split.ipynb) | - |
-| 1-7 Numpy中的矩阵运算 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/07-Computation-on-Numpy-Array/07-Computation-on-Numpy-Array.ipynb) | - |
-| 1-8 Numpy中的聚合运算 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/08-Aggregation-Operator-in-Numpy/08-Aggregation-Operator-in-Numpy.ipynb) | - |
-| 1-9 Numpy中的arg运算 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/09-Arg-Operation-in-Numpy/09-Arg-Operation-in-Numpy.ipynb) | - |
-| 1-10 Numpy中的比较和Fancy Indexing | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/10-Comparison-and-Fancy-Indexing/10-Comparison-and-Fancy-Indexing.ipynb) | - |
-| 1-11 Matplotlib数据可视化基础 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/11-Matplotlib-Basics/11-Matplotlib-Basics.ipynb) | - |
-| 1-12 数据加载和简单的数据探索 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/12-Loading-Data-and-Simple-Data-Exploring/12-Loading-Data-and-Simple-Data-Exploring.ipynb) | - |
+| 1-4 Matplotlib | [Jupyter Notebook](01-Jupyter-Notebook-Pandas-Numpy-and-Matplotlib/04-Matplotlib/04-Matplotlib.ipynb) | - |
 | 补充代码1: 更多Numpy的操作 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/Optional-01-More-about-Numpy-Operations/Optional-01-More-about-Numpy-Operations.ipynb) | - |
 | 补充代码2: Numpy中的结构数组 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/Optional-02-Numpys-Structured-Arrays/Optional-02-Numpys-Structured-Arrays.ipynb) | - |
 | 补充代码3: 简单的MNIST数据集数据探索 | [Jupyter Notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/Optional-03-MNIST-Simple-Data-Exploring/Optional-03-MNIST-Simple-Data-Exploring.ipynb) | - |
+| **第二章 Linear-Regression** | [章节文件夹](02-Linear-Regression/) | - |
+| 2-1 Linear-Regression | [Jupyter Notebook](02-Linear-Regression/01-Linear-Regression/01-Linear-Regression.ipynb) | - |
+| 2-2 练习-北京市住房价格预测 | [Jupyter Notebook](02-Linear-Regression/02-练习-北京市住房价格预测/02-练习-北京市住房价格预测.ipynb) | - |
+| ----- 练习-北京市住房价格预测-答案 | [Jupyter Notebook](02-Linear-Regression/02-练习-北京市住房价格预测/02-练习-北京市住房价格预测-答案.ipynb) | - |
+
